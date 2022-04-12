@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ecpagan
 - 👀 I’m interested in software
 - 🌱 I’m currently learning embedded C
-- 📫 How to reach me at ecpagan+github@gmail.com
+- 📫 You can reach me at ecpagan+github@gmail.com
 
 <!---
 ecpagan/ecpagan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
