@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ecpagan
 - 👀 I’m interested in software
-- 🌱 I’m currently learning embedded C
+- 🌱 I’m currently focused in embedded C
 - 📫 You can reach me at ecpagan+github@gmail.com
 
 <!---
